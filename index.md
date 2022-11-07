@@ -1,3 +1,4 @@
 
 # Blog set up
-Inital test post. 
+
+This is my blog.
